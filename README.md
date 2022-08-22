@@ -49,7 +49,7 @@ https://visionary-shortbread-ac7953.netlify.app/types
 `npm test` for running unit test cases
 
 Due to shortage of time, I wasn't able to write much of the test cases but I have written and you can review them
-for the reducer in `/features/machineTypes/MachineTypingSlice.spec.ts` file and for components under `/components` directory.
+for the reducer in [MachineTypingSlice.spec.ts](https://github.com/sarabs3/construction-on-rent/blob/main/src/features/machineTypes/MachineTypingSlice.spec.ts) file and for components under [/components](https://github.com/sarabs3/construction-on-rent/tree/main/src/components) directory.
 
 
 
